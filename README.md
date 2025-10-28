@@ -5,7 +5,7 @@ A simple Cloudflare Worker that fetches a **Letterboxd list** and returns it as 
 ---
 
 ## 🔧 Usage
-https://letterboxd-proxy.<your-subdomain>.workers.dev/?url=https://letterboxd.com/<user>/list/<list-name>/
+https://letterboxd-proxy.`<your-subdomain>`.workers.dev/?url=https://letterboxd.com/`<user>`/list/`<list-name>`/
 
 **CSV output (default):**
 
