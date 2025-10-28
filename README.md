@@ -31,7 +31,7 @@ wrangler deploy
 ```
 If prompted, register a workers.dev subdomain.
 Your Worker will be available at:
-https://letterboxd-proxy.<your-subdomain>.workers.dev
+`https://letterboxd-proxy.<your-subdomain>.workers.dev`
 
 ## 🧠 Notes
 
