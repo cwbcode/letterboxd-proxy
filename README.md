@@ -10,7 +10,9 @@ https://letterboxd-proxy
 <user>/list/<list-name>/
 
 **CSV output (default):**
+
 Rank,Title,LetterboxdURI
+
 1,Midsommar,https://letterboxd.com/film/midsommar/
 
 2,Sinners,https://letterboxd.com/film/sinners-2025/
@@ -36,7 +38,9 @@ https://letterboxd-proxy.<your-subdomain>.workers.dev
 ## 🧠 Notes
 
 - Parses <div data-component-class="LazyPoster" ...> entries from Letterboxd lists.
+  
 - Adds Access-Control-Allow-Origin: * for browser use.
+  
 - Works great for static sites needing Letterboxd data without a backend.
 
 MIT License
